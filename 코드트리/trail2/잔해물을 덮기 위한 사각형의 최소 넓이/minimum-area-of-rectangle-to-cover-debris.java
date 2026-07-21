@@ -26,7 +26,7 @@ public class Main {
 
         for (int i=rect2_y1; i<rect2_y2; i++) {
             for (int j=rect2_x1; j<rect2_x2; j++) {
-                arr[i][j]=0;
+                arr[i][j]=2;
             }
         }
 
